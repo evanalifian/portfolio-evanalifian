@@ -1,5 +1,5 @@
 import data from "../../../data.json";
-import getLastTwoDigit from "../../utils/getlastTwoDigit";
+import getLastTwoDigit from "../../utils/getLastTwoDigit";
 
 export default function BrandName() {
   const year = new Date().getFullYear();

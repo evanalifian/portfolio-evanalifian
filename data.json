@@ -33,35 +33,35 @@
   "tech_stacks": [
     {
       "name": "HTML",
-      "icon": "/tehcs_icon/html.svg"
+      "icon": "/techs_icon/html.svg"
     },
     {
       "name": "CSS",
-      "icon": "/tehcs_icon/css.svg"
+      "icon": "/techs_icon/css.svg"
     },
     {
       "name": "JavaScript",
-      "icon": "/tehcs_icon/js.svg"
+      "icon": "/techs_icon/js.svg"
     },
     {
       "name": "Python",
-      "icon": "/tehcs_icon/python.svg"
+      "icon": "/techs_icon/python.svg"
     },
     {
       "name": "React",
-      "icon": "/tehcs_icon/react.svg"
+      "icon": "/techs_icon/react.svg"
     },
     {
       "name": "React Router",
-      "icon": "/tehcs_icon/react-router.svg"
+      "icon": "/techs_icon/react-router.svg"
     },
     {
       "name": "Tailwind CSS",
-      "icon": "/tehcs_icon/tailwindcss.svg"
+      "icon": "/techs_icon/tailwindcss.svg"
     },
     {
       "name": "Bootstrap",
-      "icon": "/tehcs_icon/bootsrap.svg"
+      "icon": "/techs_icon/bootsrap.svg"
     }
   ],
   "tools": [

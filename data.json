@@ -1,0 +1,81 @@
+{
+  "name": "Evan Rafa Radya Alifian",
+  "nickname": "evanalifian",
+  "alias": "cnsl.lg",
+  "avatar": "/evan-nobg.jpg",
+  "tagline": "Experience to build website with React and Tailwind CSS",
+  "socials": [
+    {
+      "name": "Instagram",
+      "icon": "/socials_icon/instagram.svg",
+      "username": "evanalifian",
+      "url": "https://instagram.com/evanalifian"
+    },
+    {
+      "name": "X",
+      "icon": "/socials_icon/x.svg",
+      "username": "evanalifian",
+      "url": "https://x.com/evanalifian"
+    },
+    {
+      "name": "LinkedIn",
+      "icon": "/socials_icon/linkedin.svg",
+      "username": "evanalifian",
+      "url": "https://linkedin.com/in/evanalifian/"
+    },
+    {
+      "name": "GitHub",
+      "icon": "/socials_icon/github.svg",
+      "username": "evanalifian",
+      "url": "https://github.com/evanalifian"
+    }
+  ],
+  "tech_stacks": [
+    {
+      "name": "HTML",
+      "icon": "/tehcs_icon/html.svg"
+    },
+    {
+      "name": "CSS",
+      "icon": "/tehcs_icon/css.svg"
+    },
+    {
+      "name": "JavaScript",
+      "icon": "/tehcs_icon/js.svg"
+    },
+    {
+      "name": "Python",
+      "icon": "/tehcs_icon/python.svg"
+    },
+    {
+      "name": "React",
+      "icon": "/tehcs_icon/react.svg"
+    },
+    {
+      "name": "React Router",
+      "icon": "/tehcs_icon/react-router.svg"
+    },
+    {
+      "name": "Tailwind CSS",
+      "icon": "/tehcs_icon/tailwindcss.svg"
+    },
+    {
+      "name": "Bootstrap",
+      "icon": "/tehcs_icon/bootsrap.svg"
+    }
+  ],
+  "tools": [
+    {
+      "name": "Visual Studio Code",
+      "icon": "/tools_icon/vs-code.svg"
+    },
+    {
+      "name": "Git",
+      "icon": "/tools_icon/git.svg"
+    },
+    {
+      "name": "GitHub",
+      "icon": "/tools_icon/github.svg"
+    }
+  ]
+}
